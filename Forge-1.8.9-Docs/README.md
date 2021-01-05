@@ -4,7 +4,7 @@
 
 1. `./gradlew setupDecompWorkspace`  
 2. Nav to gradle home, usually HomeDir/.gradle  
-3. Nav to `caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/`  
+3. Nav to `caches/minecraft/net/minecraftforge/forge/1.8.9-11.15.1.1722/stable/20/` (`caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge` in later versions)  
 4. Grab `forgeSrc-1.8.9-11.15.1.1722-sources.jar`  
 5. Unzip the contents of this jar file (run `unzip forgeSrc-1.8.9-11.15.1.1722-sources.jar` on linux for e.g) in to a directory (mine will be called ForgeSource)  
 6. Make another directory (mine will be called ForgeDocs)  
